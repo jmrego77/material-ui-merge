@@ -5,5 +5,6 @@ import Icon from '../../Icon/Icon';
 export default (
   <IconButton uxpId="1">
     <Icon uxpId="2">home</Icon>
+  Button
   </IconButton>
 );
