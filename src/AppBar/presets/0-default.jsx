@@ -7,8 +7,8 @@ import Typography from "../../Typography/Typography";
 import Button from "../../Button/Button";
 
 export default (
-  <AppBar position="static" uxpId="1">
-    <Toolbar uxpId="2" justifyContent="space-between" color="inherit">
+  <AppBar position="static" uxpId="1" color="inherit">
+    <Toolbar uxpId="2" justifyContent="space-between">
       <IconButton
         color="inherit"
         aria-label="Menu"
