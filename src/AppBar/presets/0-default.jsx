@@ -8,7 +8,7 @@ import Button from "../../Button/Button";
 
 export default (
   <AppBar position="static" uxpId="1">
-    <Toolbar uxpId="2" justifyContent="space-between">
+    <Toolbar uxpId="2" justifyContent="space-between" color="inherit">
       <IconButton
         color="inherit"
         aria-label="Menu"
