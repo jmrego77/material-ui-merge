@@ -25,7 +25,7 @@ export default (
         aria-label="Profile"
         uxpId="6"
       >
-        <Icon uxpId="4">account_circle</Icon>
+        <Icon uxpId="7">account_circle</Icon>
       </IconButton>
   
       /**
