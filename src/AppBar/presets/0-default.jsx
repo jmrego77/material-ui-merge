@@ -25,7 +25,7 @@ export default (
         size="large"
         uxpId="6"
       >
-       <Icon uxpId="7">account_circle</Icon>
+       <Icon size="large" uxpId="7">account_circle</Icon>
       </IconButton>      
     </Toolbar>
   </AppBar>
