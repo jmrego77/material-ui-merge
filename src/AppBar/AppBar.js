@@ -36,7 +36,9 @@ AppBar.propTypes = {
   color: PropTypes.oneOf([
     "inherit",
     "primary",
-    "secondary",
+    /**
+    /*"secondary",
+     */
     "default"
   ]),
 
