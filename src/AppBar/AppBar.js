@@ -42,6 +42,12 @@ AppBar.propTypes = {
     "default"
   ]),
 
+    /**
+   * The size of the button.
+   * `small` is equivalent to the dense button styling.
+   */
+  size: PropTypes.oneOf(["small", "medium", "large"]),
+  
   /**
    * The positioning type. The behavior of the different options is described
    * [in the MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning).
