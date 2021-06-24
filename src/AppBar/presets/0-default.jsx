@@ -20,17 +20,17 @@ export default (
         Appbar
       </Typography>
       
-     <IconButton
-        color="inherit"
-        aria-label="Profile"
-        uxpId="6"
-      >
-        <Icon uxpId="7">account_circle</Icon>
-      </IconButton>
+    /** <IconButton
+       /*( color="inherit"
+       /* aria-label="Profile"
+       /* uxpId="6"
+     /* >
+       /* <Icon uxpId="7">account_circle</Icon>
+      /*</IconButton>
   
-      /**
-      /*<Button color="inherit" uxpId="6">Login</Button>
-       */
+
+      <Button color="inherit" uxpId="6">Login</Button>
+       
   
     </Toolbar>
   </AppBar>
