@@ -18,20 +18,14 @@ export default (
       </IconButton>
       <Typography variant="h6" color="inherit" uxpId="5">
         Appbar
-      </Typography>
-      
-    /** <IconButton
-       /*( color="inherit"
-       /* aria-label="Profile"
-       /* uxpId="6"
-     /* >
-       /* <Icon uxpId="7">account_circle</Icon>
-      /*</IconButton>
-  
-
-      <Button color="inherit" uxpId="6">Login</Button>
-       
-  
+      </Typography>     
+      <IconButton
+        color="inherit"
+        aria-label="Profile"
+        uxpId="6"
+      >
+       <Icon uxpId="7">account_circle</Icon>
+      </IconButton>      
     </Toolbar>
   </AppBar>
 );
