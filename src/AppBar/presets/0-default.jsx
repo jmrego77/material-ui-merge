@@ -10,17 +10,17 @@ export default (
   <AppBar position="static" uxpId="1" color="inherit">
     <Toolbar uxpId="2" justifyContent="space-between">
       <IconButton
-        color="inherit"
+        color="default"
         aria-label="Menu"
         uxpId="3"
       >
         <Icon uxpId="4">menu</Icon>
       </IconButton>
-      <Typography variant="h6" color="inherit" uxpId="5">
+      <Typography variant="h6" color="primary" uxpId="5">
         Appbar
       </Typography>     
       <IconButton
-        color="inherit"
+        color="default"
         aria-label="Profile"
         uxpId="6"
       >
