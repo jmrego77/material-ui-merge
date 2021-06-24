@@ -22,6 +22,7 @@ export default (
       <IconButton
         color="default"
         aria-label="Profile"
+        size="large"
         uxpId="6"
       >
        <Icon uxpId="7">account_circle</Icon>
