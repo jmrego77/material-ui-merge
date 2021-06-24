@@ -8,6 +8,6 @@ export default (
     variant="outlined"
     color="primary"
     fullWidth>
-    Sign Up
+    Button
   </Button>
 );
