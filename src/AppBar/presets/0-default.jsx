@@ -22,10 +22,12 @@ export default (
       
      <IconButton
         color="inherit"
-        aria-label="account_circle"
+        aria-label="Profile"
         uxpId="6"
       >
-      
+        <Icon uxpId="4">account_circle</Icon>
+      </IconButton>
+  
       /**
       /*<Button color="inherit" uxpId="6">Login</Button>
        */
