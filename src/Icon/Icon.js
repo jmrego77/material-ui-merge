@@ -36,7 +36,7 @@ Icon.propTypes = {
   /**
    * The fontSize applied to the icon. Defaults to 24px, but can be configure to inherit font size.
    */
-  fontSize: PropTypes.oneOf(["inherit", "default"])
+  fontSize: PropTypes.oneOf(["inherit","small","medium","large","default"])
 };
 
 export { Icon as default };
