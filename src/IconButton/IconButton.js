@@ -25,6 +25,11 @@ IconButton.propTypes = {
   /**
    * If `true`, the button will be disabled.
    */
+      /**
+   * The size of the button.
+   * `small` is equivalent to the dense button styling.
+   */
+  fontSize: PropTypes.oneOf(["small", "medium", "large"]),
   disabled: PropTypes.bool,
   /**
    * If `true`, the ripple will be disabled.
