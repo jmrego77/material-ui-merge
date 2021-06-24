@@ -6,7 +6,7 @@ export default (
     uxpId="action1"
     size="medium"
     variant="outlined"
-    color="primary"
+    color="secondary"
     fullWidth>
     Button
   </Button>
